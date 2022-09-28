@@ -1,5 +1,7 @@
 # Django-Querysets-and-Managers
+
 Author: Olubayode Ebenezer
+
 Created 15-07-2022 08:43:55
 
 I builts more features for URL shortener service.
