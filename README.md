@@ -18,6 +18,9 @@ I want users of the API to view all active links. I also want to provide users w
 
 I Created a new file, managers.py in my links app folder. 
 You can see sample of starter files to be added to the managers.py here 👇
+
+https://github.com/Olubayode/Django-Querysets-and-Managers/blob/main/src/links/managers.py or
+
 https://github.com/TobeTek/Zuri/blob/main/starter-files/Querysets-and-Managers/managers.py
 
 I Added the following attributes to my Link model in links/models.py
@@ -28,6 +31,9 @@ public = ActiveLinkManager()
 
 # On to the views. 
 I  added ActiveLinkView and RecentLinkView u can see samples here 👇
+
+https://github.com/Olubayode/Django-Querysets-and-Managers/blob/main/src/links/views.py or 
+
 https://github.com/TobeTek/Zuri/blob/main/starter-files/Querysets-and-Managers/views.py to links/views.py.
 
 I Added the following new URL paths in links/urls.py.
