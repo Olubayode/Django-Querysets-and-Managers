@@ -1,6 +1,6 @@
 # Django-Querysets-and-Managers
 
-Author: Olubayode Ebenezer
+Author: Olubayode Ebenezer.
 
 Created 15-07-2022 08:43:55
 
