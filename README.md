@@ -17,7 +17,7 @@ Also, installed the Django rest framework (pip install djangorestframework)
 I want users of the API to view all active links. I also want to provide users with an endpoint to view Links created during the week.
 
 I Created a new file, managers.py in my links app folder. 
-You can see sample of starter files to be added to the managers.py here 👇
+You can see sample of arc files or  starter files to be added to the managers.py here 👇
 
 https://github.com/Olubayode/Django-Querysets-and-Managers/blob/main/src/links/managers.py or
 
